@@ -4,7 +4,7 @@ Create "vpn_bot" dir
 
 then:
 
-wget ....
+git clone https://github.com/ylyas8892/vpn4tkm.git
 
 then:
 
