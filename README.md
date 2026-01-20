@@ -8,4 +8,4 @@ then:
 chmod +x deploy.sh
 then start:
 ./deploy.sh
-
+,
